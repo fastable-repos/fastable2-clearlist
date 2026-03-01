@@ -238,7 +238,7 @@ export default function App() {
                       data-testid="archive-btn"
                       aria-label={`Archive "${todo.text}"`}
                       title="Archive"
-                      className="text-xs text-gray-400 hover:text-indigo-500 px-2 py-1 rounded-lg hover:bg-indigo-50 transition-colors opacity-0 group-hover:opacity-100 focus:opacity-100"
+                      className="text-xs text-gray-400 hover:text-indigo-500 px-2 py-1 rounded-lg hover:bg-indigo-50 transition-colors"
                     >
                       Archive
                     </button>
